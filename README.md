@@ -1,7 +1,7 @@
 # Animation_grid
 
 
-randomly generate small grids with different backgroudn color 
+randomly generate small grids with different background color 
 
 zoom in and out the grids that user is swiping using panGesture recognizer
 
